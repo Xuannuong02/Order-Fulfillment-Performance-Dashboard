@@ -32,7 +32,7 @@ Reference Tables: cancellation reasons, brand, region.
 
 The solution includes three integrated dashboards with filters:
 
-####🔹 In Full Orders Overview
+🔹 In Full Orders Overview
 
 KPIs: Total orders, In Full Orders, Fulfillment Rate (%).
 
@@ -66,7 +66,7 @@ Top 5 cancellation reasons.
 
 Drilldown: Cancelled orders by customer.
 
-# 4. Key Insights
+### 4. Key Insights
 
 Fulfillment Rate: Only 68.65% (quantity) and 60.47% (value) delivered in full (Aug).
 
@@ -78,7 +78,7 @@ Channel View: CVS channel had the highest In Full Orders; GT had the most cancel
 
 Customer View: WIN was the top performer in full orders but also high in partial → risk factor.
 
-# 5. Impact
+### 5. Impact
 
 End-to-end visibility of fulfillment performance (Full, Partial, Cancelled).
 
