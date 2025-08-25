@@ -1,10 +1,10 @@
-### Order Fulfillment Performance Dashboard
+# Order Fulfillment Performance Dashboard
 
 ## 📊 Project: Order Fulfillment Performance Dashboard
 ## 🏢 Domain: Retail / FMCG – Order & Sales Monitoring
 ## 🛠 Tools: Power BI, DAX, Data Modeling
 
-# 1. Business Problem
+### 1. Business Problem
 
 Order fulfillment is a key KPI for retailers. Incomplete (partial) and cancelled orders directly impact revenue, operations, and customer satisfaction. Management required a centralized dashboard to:
 
@@ -16,7 +16,7 @@ Identify top customers, channels, and cancellation reasons.
 
 Enable MTD and YTD comparisons.
 
-# 2. Data Sources & Modeling
+### 2. Data Sources & Modeling
 
 Sales Orders Table: order ID, customer, status, amount, channel, warehouse.
 
@@ -28,11 +28,11 @@ Reference Tables: cancellation reasons, brand, region.
 
 👉 Built a star schema model in Power BI linking facts (orders) with dimensions (customer, date, channel).
 
-# 3. Dashboard Design
+### 3. Dashboard Design
 
 The solution includes three integrated dashboards with filters:
 
-🔹 In Full Orders Overview
+####🔹 In Full Orders Overview
 
 KPIs: Total orders, In Full Orders, Fulfillment Rate (%).
 
