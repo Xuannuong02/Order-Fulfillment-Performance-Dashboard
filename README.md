@@ -1,5 +1,5 @@
-# Order Fulfillment Performance Dashboard
-## 📊 Project: Order Fulfillment Performance Dashboard
+# Order Status Analysis Dashboard
+## 📊 Project: Order Status Analysis Dashboard
 ## 🏢 Domain: Retail / FMCG – Order & Sales Monitoring
 ## 🛠 Tools: Power BI, DAX, Data Modeling
 ### 1. Business Problem
