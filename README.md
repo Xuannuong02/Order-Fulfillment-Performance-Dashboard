@@ -98,7 +98,7 @@ Drillthrough Functionality: From KPIs to order-level details for actionability
 
 Conditional Formatting: Highlights critical areas needing attention
 ###Image
-<img width="638" height="591" alt="image" src="https://github.com/user-attachments/assets/164b6d74-5018-4398-a404-a53003ff60db" />
+<img width="636" height="593" alt="image" src="https://github.com/user-attachments/assets/b10565f3-c9fd-410a-81bd-4c89c1b6dbbd" />
 <img width="637" height="592" alt="image" src="https://github.com/user-attachments/assets/d967558c-bbf1-43ef-9491-e56358b12230" />
 <img width="639" height="593" alt="image" src="https://github.com/user-attachments/assets/e071d8cb-90d8-47e3-8203-97cbae46ecb5" />
 
